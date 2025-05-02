@@ -7,6 +7,23 @@ redirect_from:
   - /about.html
 ---
 
+<!-- GitHub Stats Side by Side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
+</p>
+
 I am a driven Full-Stack, DevOps, and AI engineer with a passion for designing and developing advanced server architectures. I have actively contributed to the research and implementation of Large Language Models (LLMs), collaborating on team projects and assisting LaplaceAI-Lab in AI agent server development. My experience includes designing scalable server infrastructures, maintaining robust systems that integrate both software and hardware solutions, and optimizing development workflows through CI/CD pipelines and containerized environments. I thrive on tackling complex challenges in server development, AI integration, and DevOps automation.
 
 ## Professional Experience
