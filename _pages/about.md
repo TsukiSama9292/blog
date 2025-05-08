@@ -1,10 +1,33 @@
 ---
 permalink: /
-title: "About Me"
+title: "Xuan-You Lin"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+
+## 🎓 *B.Eng. Student & Developer (AI, DevOps, Full-Stack)*  
++ **Sep 2022 – Present**  
+  👨‍🎓 B.Eng. in Computer Science and Information Engineering  
+  🏫 National Ilan University (NIU), Taiwan  
+  📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County 260, Taiwan  
++ **Nov 2023 – Present**  
+  🧑‍💻 Team Leader & Developer (AI, DevOps, Full-Stack)  
+  🥼 Computer Science RFID Lab (soon to be renamed Radar Lab), NIU  
+  🏆 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Project Exhibition  
++ **Feb 2025 – Present**  
+  🧠 AI Developer at [LaplaceAI](https://laplaceai.co/)
+
+---
+
+## About Me
+I am an innovative third-year Computer Science and Information Engineering student at National Ilan University, with a passion for integrating artificial intelligence into digital learning games and pursuing cutting-edge research. Since February 2025, I have been working as an AI Developer at LaplaceAI, where I focus on developing AI agents and exploring frontier research topics. In November 2023, I took the lead in founding K12EDU, whose mission is to make learning fun, challenging, and rewarding. Through K12EDU, I have overseen the development of a large-scale smart education platform alongside a talented team that includes a Unity game design engineer, a back-end game logic API engineer, and two full-stack engineers—including myself.
+
+My responsibilities span AI development, DevOps, full-stack engineering, server system architecture design, CI/CD pipeline implementation, technical research, backend and server infrastructure management, cybersecurity, and overall operations—all of which I manage directly. Under my leadership, our 2025 capstone project earned first place. I bring strong expertise in AI agent development, prompt engineering, system design, server architecture, Unity integration with APIs and web servers, container orchestration, and full-stack web frameworks.
+
+At K12EDU, we have greatly benefited from the invaluable suggestions and constructive feedback provided by supervising professors, lab seniors, and volunteer testers. Their insights have played a crucial role in refining our platform and shaping our design and development strategies, and I am deeply grateful for their support.
+
 ---
 
 <!-- GitHub Stats Side by Side -->
@@ -24,47 +47,51 @@ redirect_from:
   <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
 </p>
 
-I am a driven Full-Stack, DevOps, and AI engineer with a passion for designing and developing advanced server architectures. I have actively contributed to the research and implementation of Large Language Models (LLMs), collaborating on team projects and assisting LaplaceAI-Lab in AI agent server development. My experience includes designing scalable server infrastructures, maintaining robust systems that integrate both software and hardware solutions, and optimizing development workflows through CI/CD pipelines and containerized environments. I thrive on tackling complex challenges in server development, AI integration, and DevOps automation.
+---
 
-## Professional Experience
+## 💼 Project
 
-**Server Architecture & Development**  
-- **University Capstone Project:**  
-  - Designed and implemented multiple server architectures for LLM and E-Learning research, focusing on both software and hardware maintenance.
-  - Developed a robust Ubuntu Server environment, running Kasm Workspace to provide isolated Linux development spaces for team members.
-  - Integrated CI/CD pipelines using GitHub Actions to accelerate development cycles and improve code quality.
-  - Enhanced network reliability and security through the strategic implementation of Cloudflare.
-  - Contributed to the overall strategy and technical design, ensuring seamless integration with existing server architectures.
+### [K12EDU](https://github.com/k12edu) – *Leader & Developer(AI, DevOps, Full-Stack)* 🚀  
+🎓 RFID Lab, Department of Computer Science and Information Engineering, National Ilan University | 2024 Capstone Project Team  
+
+We are a four-member team dedicated to developing an **AI-integrated digital learning platform** that makes K-12 education more engaging and effective through gamification.
+
+- 🔗 [About the Organization](https://www.k12edu.uk)  
+- 🎮 [Digital Learning Game Platform](https://game.k12edu.uk) – browser-based games  
+- 🤖 [AI Learning Assistant](https://ai.k12edu.uk/) – integrated with web search and RAG technology  
+- 📝 [Teacher Question Upload Platform with AI](https://teacher.k12edu.uk/) – design educational content with AI assistance  
+- ⚖️ [Online Judge](https://judge.k12edu.uk/) – provide programming questions and verify the correctness of the program  
+- 🐧 [Linux Lab](https://linux-lab.k12edu.uk/#/) – hands-on development document for IT learners
+
+Our mission: **Make learning fun, challenging, and rewarding!**
+
+### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – *AI Developer* 🚀
+
+---
+
+## 🛠️ Technical Skills
+
+| Category                    | Skills                                                            |
+| --------------------------- | ----------------------------------------------------------------- |
+| **Programming Languages**   | Python, Java, C++, JavaScript                                     |
+| **AI & ML**                 | LLM Post-Training, RAG, Prompt Engineering, PyTorch, Transformers |
+| **Containers & Automation** | Docker, Kubernetes (K3s, Rancher), GitHub Actions                 |
+| **Servers & Networking**    | Ubuntu, Proxmox VE, Rocky, Nginx, Cloudflare                      |
+| **Web Development**         | Django (Full-Stack), FastAPI (Back-End), Vue.js (Vuetify3)        |
+
+---
 
 
-**AI & Emerging Technologies**  
-- **LaplaceAI-Lab Collaboration:**  
-  - Assisted in the development of an AI Agent server, focusing on integrating cutting-edge technologies to support emerging AI applications.
+## 🏆 Competition Record
 
+| Year | Competition Name         | Role           | Award / Ranking |
+|------|--------------------------|----------------|-----------------|
+| 2025 | [College of Electrical Engineering and Computer Science Capstone Project Exhibition](https://raw.githubusercontent.com/TsukiSama9292/OpenData/refs/heads/main/images/Certificates_and_Diplomas/College_of_Electrical_Engineering_and_Computer_Science_Capstone_Project_Exhibition.png)   | Team Leader    | 1st Place       |
 
-## Technical Skills
+---
 
-- **Programming Languages:**  
-  - Python(main), Java, C++, JavaScript
-
-- **Artificial Intelligence & Machine Learning:**  
-  - LLM: Pre-training/Fine-tuning, Retrieval-Augmented Generation (RAG), Prompt Engineering   
-  - Deep Learning Framework: PyTorch
-
-- **DevOps & Infrastructure:**  
-  - Linux: Ubuntu, Proxmox VE, Rocky 
-  - Windows: 10/11 Pro/WorkStation  
-  - Framework: Docker, Kubernetes (Rancher, K3s)  
-  - CI/CD: GitHub Actions  
-  - HTTP Server: Nginx
-
-- **Web & API Development:**  
-  - Full-Stack: Django
-  - Back-End: FastAPI
-  - Front-End: Vue(Vuetify)
-
-## Interests
-- Large Language Models & Deep Learning  
-- DevOps, Kubernetes, Docker, and Linux Environments  
-- Innovative server and operations engineering  
-- Emerging AI Agent technologies
+## 💡 Interests  
++ 🎯 Agentic AI    
++ 🧠 Deep Learning  
++ 🌐 DevOps 
++ ☁️ Cloud Storage / Cloud Computing
