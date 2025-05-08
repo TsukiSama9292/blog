@@ -13,9 +13,9 @@ redirect_from:
   🏫 National Ilan University (NIU), Taiwan  
   📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County 260, Taiwan  
 + **Nov 2023 – Present**  
-  🧑‍💻 Team Leader & Developer (AI, DevOps, Full-Stack)  
+  🧑‍💻 [K12EDU](https://github.com/k12edu). Team Leader & Developer (AI, DevOps, Full-Stack)  
   🥼 Computer Science RFID Lab (soon to be renamed Radar Lab), NIU  
-  🏆 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Project Exhibition  
+  🏆 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU
 + **Feb 2025 – Present**  
   🧠 AI Developer at [LaplaceAI](https://laplaceai.co/)
 
@@ -86,7 +86,8 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 
 | Year | Competition Name         | Role           | Award / Ranking |
 |------|--------------------------|----------------|-----------------|
-| 2025 | [College of Electrical Engineering and Computer Science Capstone Project Exhibition](https://raw.githubusercontent.com/TsukiSama9292/OpenData/refs/heads/main/images/Certificates_and_Diplomas/College_of_Electrical_Engineering_and_Computer_Science_Capstone_Project_Exhibition.png)   | Team Leader    | 1st Place       |
+| 2025 | [College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU](https://raw.githubusercontent.com/TsukiSama9292/OpenData/refs/heads/main/images/Certificates_and_Diplomas/College_of_Electrical_Engineering_and_Computer_Science_Capstone_Project_Exhibition.png)   | Team Leader    | 1st Place       |
+
 
 ---
 
