@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xuan-You Lin"
+title: "Xuan-You Lin (Chinese name: 林宣佑)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,16 +8,19 @@ redirect_from:
 ---
 
 ## 🎓 *B.Eng. Student & Developer (AI, DevOps, Full-Stack)*  
-+ **Sep 2022 – Present**  
-  👨‍🎓 B.Eng. in Computer Science and Information Engineering  
-  🏫 National Ilan University (NIU), Taiwan  
-  📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County 260, Taiwan  
-+ **Nov 2023 – Present**  
-  🧑‍💻 [K12EDU](https://github.com/k12edu). Team Leader & Developer (AI, DevOps, Full-Stack)  
-  🥼 Computer Science RFID Lab (soon to be renamed Radar Lab), NIU  
-  🏆 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU
-+ **Feb 2025 – Present**  
-  🧠 AI Developer at [LaplaceAI](https://laplaceai.co/)
+**Sep 2022 – Present**  
++ 👨‍🎓 B.Eng. in Computer Science and Information Engineering  
++ 🏫 National Ilan University (NIU), Taiwan  
++ 📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County 260, Taiwan  
+
+**Nov 2023 – Present**  
++ 🧑‍💻 [K12EDU](https://github.com/k12edu). Team Leader & Developer (AI, DevOps, Full-Stack)  
++ 🥼 Computer Science RFID Lab (soon to be renamed Radar Lab), NIU  
++ 🏆 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU
++ 📊 Contribution: 50%
+
+**Feb 2025 – Present**  
++ 🧠 AI Developer at [LaplaceAI](https://laplaceai.co/)
 
 ---
 
@@ -77,7 +80,7 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 | **AI & ML**                 | LLM Post-Training, RAG, Prompt Engineering, PyTorch, Transformers |
 | **Containers & Automation** | Docker, Kubernetes (K3s, Rancher), GitHub Actions                 |
 | **Servers & Networking**    | Ubuntu, Proxmox VE, Rocky, Nginx, Cloudflare                      |
-| **Web Development**         | Django (Full-Stack), FastAPI (Back-End), Vue.js (Vuetify3)        |
+| **Web Development**         | Django (Full-Stack), FastAPI (Back-End), Vuetify3 (Front-End)     |
 
 ---
 
