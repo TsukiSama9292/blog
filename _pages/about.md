@@ -91,7 +91,7 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 |------|--------------------------|----------------|-----------------|
 | 2025 | [College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU](https://raw.githubusercontent.com/TsukiSama9292/OpenData/refs/heads/main/images/Certificates_and_Diplomas/College_of_Electrical_Engineering_and_Computer_Science_Capstone_Project_Exhibition.png)   | Team Leader    | 1st Place       |
 | 2025 | Department of Computer Science and Information Engineering Capstone Research Achievement Competition, NIU | Team Leader | 2nd Place |
-| 2025 | Programming, Information, and AI Applications Competition, National Ilan University | Team Leader | Excellence Award |
+| 2025 | Programming, Information, and AI Applications Competition, NIU | Team Leader | Excellence Award |
 
 ---
 
