@@ -80,7 +80,8 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 | **AI & ML**                 | LLM Post-Training, RAG, Prompt Engineering, PyTorch, Transformers |
 | **Containers & Automation** | Docker, Kubernetes (K3s, Rancher), GitHub Actions                 |
 | **Servers & Networking**    | Ubuntu, Proxmox VE, Rocky, Nginx, Cloudflare                      |
-| **Web Development**         | Django (Full-Stack), FastAPI (Back-End), Vuetify3 (Front-End)     |
+| **Web Development**         | Django (Full-Stack), FastAPI (Back-End), Nuxt.js, Next.js (Front-End)     |
+| **Database**                | PostgreSQL, MySQL/MariaDB                                         |
 
 ---
 
